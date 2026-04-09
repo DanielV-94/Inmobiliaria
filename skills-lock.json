@@ -1,0 +1,30 @@
+{
+  "version": 1,
+  "skills": {
+    "animate": {
+      "source": "pbakaus/impeccable",
+      "sourceType": "github",
+      "computedHash": "f9d491683c8ab76acb06f3c0b539bee16900a5a8ec3575b75137780e7378a108"
+    },
+    "awwwards-animations": {
+      "source": "devmartinese/awwwards-animations-skill",
+      "sourceType": "github",
+      "computedHash": "10574282bd24f42072059efa58cfce6ff3a80347505eb191af55544426fe4c3a"
+    },
+    "frontend-ui-animator": {
+      "source": "julianromli/ai-skills",
+      "sourceType": "github",
+      "computedHash": "b5f6f7af9acfad4020a98b620c0a2d38fd5017cced569b143385ed6afa356759"
+    },
+    "ui-animation": {
+      "source": "mblode/agent-skills",
+      "sourceType": "github",
+      "computedHash": "f918842977d31fadccb206bd80163091b57294690cbb7351e91cf9c681de2310"
+    },
+    "web-design-studio": {
+      "source": "xiaodong-wu/web-design-studio",
+      "sourceType": "github",
+      "computedHash": "d81395b8ff9ea28db26b5b47c01ab1dafa4bd3ba83508271e7587ed9d4768624"
+    }
+  }
+}
